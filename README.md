@@ -6,10 +6,11 @@
 
 [![modern cpp](https://img.shields.io/badge/code-Go-blue)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp)
 [![modern cpp](https://img.shields.io/badge/code-Java-red)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp)
-[![modern cpp](https://img.shields.io/badge/code-Python-yellow)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp)<br>
-![](https://img.shields.io/badge/讨厌-学习-green) 
-![](https://img.shields.io/badge/性格-开朗-orange) 
-![](https://img.shields.io/badge/爱好-科技-black)
+[![modern cpp](https://img.shields.io/badge/code-Python-yellow)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp) <br>
+![](https://img.shields.io/badge/喜欢-下雨-green) 
+![](https://img.shields.io/badge/火锅-red) 
+![](https://img.shields.io/badge/科技-black) <br>
+![](https://img.shields.io/badge/XIAOMI-是个米粉-orange)
 
 </div>
 
