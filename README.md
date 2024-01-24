@@ -4,9 +4,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=c0rdXy&show_icons=true&theme=radical)
 
-[![modern cpp](https://img.shields.io/badge/code-Go-blue)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp)
+[![modern cpp](https://img.shields.io/badge/code-Go-blue)](https://go.dev)
 [![modern cpp](https://img.shields.io/badge/code-Java-red)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp)
-[![modern cpp](https://img.shields.io/badge/code-Python-yellow)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp) <br>
+[![modern cpp](https://img.shields.io/badge/code-Python-yellow)](https://python.org) <br>
 ![](https://img.shields.io/badge/喜欢-下雨-green) 
 ![](https://img.shields.io/badge/火锅-red) 
 ![](https://img.shields.io/badge/科技-black) <br>
